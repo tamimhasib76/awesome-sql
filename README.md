@@ -25,6 +25,7 @@ List of tools and techniques for working with relational databases inspired by o
 - [SQL Server Data Tools](http://msdn.microsoft.com/en-us/data/tools.aspx) - Integrated environment for developers to design and build database and other business intelligence solutions for MS SQL Server stack.
 - [tSQLt](http://tsqlt.org/) - Unit testing framework for SQL Server
 - [MSSqlCLI](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
+- [SyteLine & Kinetic ERP SQL Diagnostics](https://github.com/tamimhasib76/syteline-kinetic-erp-diagnostics) - Read-only SQL Server diagnostic queries and DMV health checks for ERP systems.
 
 ## <a name="formatter"></a>Formatters
 
